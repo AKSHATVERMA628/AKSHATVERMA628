@@ -57,25 +57,6 @@
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <a href="https://github.com/AKSHATVERMA628">
-    <img src="https://github-readme-stats.vercel.app/api?username=AKSHATVERMA628&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Akshat's GitHub Stats" />
-  </a>
-  <a href="https://github.com/AKSHATVERMA628">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHATVERMA628&theme=tokyonight&hide_border=false" alt="Akshat's GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AKSHATVERMA628">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHATVERMA628&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Akshat's Top Languages" />
-  </a>
-</p>
-
----
-
 ## ✍️ Dev Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
