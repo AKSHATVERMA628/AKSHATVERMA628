@@ -31,10 +31,10 @@
 ## 💫 About Me
 
 <p align="left">
-  🔭 **Currently**: Designing high-performance full-stack web architectures, optimizing database schemas, and streamlining cloud deployments using DevOps automation.<br /><br />
-  🌱 **Active Focus**: Building production-ready applications with <b>React</b> & <b>Node.js</b> while mastering scalable <b>AWS</b> cloud setups.<br /><br />
-  💬 **Tech Discussions**: Always excited to chat about web scalability, backend performance in <b>Java</b>, or anything JavaScript. Start a discussion or open an issue <a href="https://github.com/AKSHATVERMA628/AKSHATVERMA628/issues"><b>here</b></a>!<br /><br />
-  ⚡ **Fun Fact**: When I'm not writing code or debugging, you can find me analyzing movie plots, binge-watching thriller series, or immersed in gaming.
+  🔭 &nbsp;<b>Currently</b> &mdash; Designing high-performance full-stack web architectures, optimizing database schemas, and streamlining cloud deployments using DevOps automation.<br /><br />
+  🌱 &nbsp;<b>Active Focus</b> &mdash; Building production-ready applications with <b>React</b> & <b>Node.js</b> while mastering scalable <b>AWS</b> cloud setups.<br /><br />
+  💬 &nbsp;<b>Tech Discussions</b> &mdash; Always excited to chat about web scalability, backend performance in <b>Java</b>, or anything JavaScript. Start a discussion or open an issue <a href="https://github.com/AKSHATVERMA628/AKSHATVERMA628/issues"><b>here</b></a>!<br /><br />
+  ⚡ &nbsp;<b>Fun Fact</b> &mdash; When I'm not writing code or debugging, you can find me analyzing movie plots, binge-watching thriller series, or immersed in gaming.
 </p>
 
 ---
