@@ -28,7 +28,7 @@
 
 <br />
 
-## 💫 About Me
+## 💫 Bio
 
 <p align="left">
   🔭 &nbsp;<b>Currently</b> &mdash; Designing high-performance full-stack web architectures, optimizing database schemas, and streamlining cloud deployments using DevOps automation.<br /><br />
