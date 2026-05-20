@@ -28,67 +28,55 @@
 
 <br />
 
-<!-- Dashboard Layout -->
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <!-- Left Column: About Me & Stats -->
-    <td width="55%" valign="top">
-      <h3>💫 About Me</h3>
-      <p>🔭 I’m currently focused on building robust <b>Full Stack Web Applications</b> and exploring the world of <b>DevOps</b>.</p>
-      <p>💬 Ask me about <b>Node.js, React, Java</b>, or anything tech-related! You can open an issue or start a discussion <a href="https://github.com/AKSHATVERMA628/AKSHATVERMA628/issues"><b>here</b></a>.</p>
-      <p>⚡ Fun fact: I am an avid fan of <b>movies, web series, and gaming</b> during my free time!</p>
-      
-      <br />
-      
-      <h3>📊 GitHub Insights</h3>
-      <a href="https://github.com/AKSHATVERMA628">
-        <img src="https://github-readme-stats.vercel.app/api?username=AKSHATVERMA628&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Akshat's GitHub Stats" width="100%" />
-      </a>
-      <br /><br />
-      <a href="https://github.com/AKSHATVERMA628">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHATVERMA628&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Akshat's Top Languages" width="100%" />
-      </a>
-    </td>
-    
-    <!-- Right Column: Tech Stack & Streak -->
-    <td width="45%" valign="top" align="center">
-      <h3>🛠️ Tech Stack</h3>
-      
-      <table border="0" cellpadding="5" cellspacing="0" width="100%">
-        <tr>
-          <td align="center">
-            <b>💻 Frontend</b><br />
-            <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="Frontend Tech" />
-          </td>
-        </tr>
-        <tr>
-          <td align="center"><br />
-            <b>⚙️ Backend & Database</b><br />
-            <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,java" alt="Backend Tech" />
-          </td>
-        </tr>
-        <tr>
-          <td align="center"><br />
-            <b>🔧 DevOps & Tools</b><br />
-            <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="Tools Tech" />
-          </td>
-        </tr>
-      </table>
-      
-      <br /><br />
-      
-      <h3>🔥 Contribution Streak</h3>
-      <a href="https://github.com/AKSHATVERMA628">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHATVERMA628&theme=tokyonight&hide_border=false" alt="Akshat's GitHub Streak" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+## 💫 About Me
 
-<hr />
+<p align="left">
+  🔭 I’m currently focused on building robust <b>Full Stack Web Applications</b> and exploring the world of <b>DevOps</b>.<br /><br />
+  💬 Ask me about <b>Node.js, React, Java</b>, or anything tech-related! You can open an issue or start a discussion <a href="https://github.com/AKSHATVERMA628/AKSHATVERMA628/issues"><b>here</b></a>.<br /><br />
+  ⚡ Fun fact: I am an avid fan of <b>movies, web series, and gaming</b> during my free time!
+</p>
 
-<!-- Dev Quote Section -->
-<h3 align="center">✍️ Dev Quote of the Day</h3>
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <b>💻 Frontend</b><br />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" alt="Frontend Tech" />
+</p>
+<br />
+<p align="center">
+  <b>⚙️ Backend & Database</b><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,java" alt="Backend Tech" />
+</p>
+<br />
+<p align="center">
+  <b>🔧 DevOps & Tools</b><br />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="Tools Tech" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <a href="https://github.com/AKSHATVERMA628">
+    <img src="https://github-readme-stats.vercel.app/api?username=AKSHATVERMA628&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Akshat's GitHub Stats" />
+  </a>
+  <a href="https://github.com/AKSHATVERMA628">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKSHATVERMA628&theme=tokyonight&hide_border=false" alt="Akshat's GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AKSHATVERMA628">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHATVERMA628&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Akshat's Top Languages" />
+  </a>
+</p>
+
+---
+
+## ✍️ Dev Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
