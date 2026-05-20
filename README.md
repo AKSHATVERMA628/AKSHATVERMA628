@@ -31,9 +31,10 @@
 ## 💫 About Me
 
 <p align="left">
-  🔭 I’m currently focused on building robust <b>Full Stack Web Applications</b> and exploring the world of <b>DevOps</b>.<br /><br />
-  💬 Ask me about <b>Node.js, React, Java</b>, or anything tech-related! You can open an issue or start a discussion <a href="https://github.com/AKSHATVERMA628/AKSHATVERMA628/issues"><b>here</b></a>.<br /><br />
-  ⚡ Fun fact: I am an avid fan of <b>movies, web series, and gaming</b> during my free time!
+  🔭 **Currently**: Designing high-performance full-stack web architectures, optimizing database schemas, and streamlining cloud deployments using DevOps automation.<br /><br />
+  🌱 **Active Focus**: Building production-ready applications with <b>React</b> & <b>Node.js</b> while mastering scalable <b>AWS</b> cloud setups.<br /><br />
+  💬 **Tech Discussions**: Always excited to chat about web scalability, backend performance in <b>Java</b>, or anything JavaScript. Start a discussion or open an issue <a href="https://github.com/AKSHATVERMA628/AKSHATVERMA628/issues"><b>here</b></a>!<br /><br />
+  ⚡ **Fun Fact**: When I'm not writing code or debugging, you can find me analyzing movie plots, binge-watching thriller series, or immersed in gaming.
 </p>
 
 ---
@@ -41,7 +42,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <b>💻 Frontend</b><br /><br />
+  <b>💻 Frontend</b><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />&nbsp;&nbsp;
@@ -52,7 +53,7 @@
 <br />
 
 <p align="center">
-  <b>⚙️ Backend & Database</b><br /><br />
+  <b>⚙️ Backend & Database</b><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="NodeJS" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" alt="Express" style="background: white; border-radius: 4px; padding: 2px;" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />&nbsp;&nbsp;
@@ -64,7 +65,7 @@
 <br />
 
 <p align="center">
-  <b>🔧 DevOps & Tools</b><br /><br />
+  <b>🔧 DevOps & Tools</b><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" style="background: white; border-radius: 50%; padding: 2px;" />&nbsp;&nbsp;
