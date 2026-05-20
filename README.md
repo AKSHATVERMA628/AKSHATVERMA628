@@ -75,6 +75,11 @@
 ---
 
 ## ✍️ Dev Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+<!-- START_QUOTE -->
+<blockquote>
+  <p align="center">
+    <i>"Clean code always looks like it was written by someone who cares."</i> <br />
+    &mdash; <b>Michael Feathers</b>
+  </p>
+</blockquote>
+<!-- END_QUOTE -->
