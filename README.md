@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Clean code always looks like it was written by someone who cares."</i> <br />
-    &mdash; <b>Michael Feathers</b>
+    <i>"Software is a great combination between artistry and engineering."</i> <br />
+    &mdash; <b>Bill Gates</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
