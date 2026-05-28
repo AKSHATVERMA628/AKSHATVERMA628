@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Programming isn't about what you know; it's about what you can figure out."</i> <br />
-    &mdash; <b>Chris Pine</b>
+    <i>"Measure progress by lines of code is like measure aircraft building progress by weight."</i> <br />
+    &mdash; <b>Bill Gates</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
