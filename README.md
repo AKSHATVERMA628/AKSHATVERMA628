@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Measure progress by lines of code is like measure aircraft building progress by weight."</i> <br />
-    &mdash; <b>Bill Gates</b>
+    <i>"Quality is a product of a conflict between programmers and product managers."</i> <br />
+    &mdash; <b>Jerry Weinberg</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
