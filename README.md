@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"The most disastrous thing that you can ever learn is your first programming language."</i> <br />
-    &mdash; <b>Alan Kay</b>
+    <i>"Clean code always looks like it was written by someone who cares."</i> <br />
+    &mdash; <b>Michael Feathers</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
