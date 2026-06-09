@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> <br />
-    &mdash; <b>Martin Fowler</b>
+    <i>"Make it work, make it right, make it fast."</i> <br />
+    &mdash; <b>Kent Beck</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
