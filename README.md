@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br />
-    &mdash; <b>Cory House</b>
+    <i>"Fix the cause, not the symptom."</i> <br />
+    &mdash; <b>Steve Maguire</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
