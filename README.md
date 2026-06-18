@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"The best error message is the one that never shows up."</i> <br />
-    &mdash; <b>Thomas Fuchs</b>
+    <i>"A user interface is like a joke. If you have to explain it, it’s not that good."</i> <br />
+    &mdash; <b>Martin LeBlanc</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
