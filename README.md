@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Writing the first 90% of a project takes 90% of the time. The remaining 10% takes another 90% of the time."</i> <br />
-    &mdash; <b>Tom Cargill</b>
+    <i>"Simplicity is prerequisite for reliability."</i> <br />
+    &mdash; <b>Edsger W. Dijkstra</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
