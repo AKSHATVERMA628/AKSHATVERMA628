@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Simplicity is prerequisite for reliability."</i> <br />
-    &mdash; <b>Edsger W. Dijkstra</b>
+    <i>"The only way to go fast, is to go well."</i> <br />
+    &mdash; <b>Robert C. Martin</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
