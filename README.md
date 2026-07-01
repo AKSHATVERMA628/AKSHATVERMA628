@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"There are only two hard things in Computer Science: cache invalidation and naming things."</i> <br />
-    &mdash; <b>Phil Karlton</b>
+    <i>"Clean code always looks like it was written by someone who cares."</i> <br />
+    &mdash; <b>Michael Feathers</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
