@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Computers are good at following instructions, but not at reading your mind."</i> <br />
-    &mdash; <b>Donald Knuth</b>
+    <i>"The function of good software is to make the complex appear simple."</i> <br />
+    &mdash; <b>Grady Booch</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
