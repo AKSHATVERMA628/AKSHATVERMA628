@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"The computer was born to solve problems that did not exist before."</i> <br />
-    &mdash; <b>Bill Gates</b>
+    <i>"A primary cause of complexity is that software vendors uncritically adopt hardware paradigms."</i> <br />
+    &mdash; <b>Niklaus Wirth</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
