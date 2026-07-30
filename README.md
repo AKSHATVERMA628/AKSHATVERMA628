@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Quality is a product of a conflict between programmers and product managers."</i> <br />
-    &mdash; <b>Jerry Weinberg</b>
+    <i>"There are only two hard things in Computer Science: cache invalidation and naming things."</i> <br />
+    &mdash; <b>Phil Karlton</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
