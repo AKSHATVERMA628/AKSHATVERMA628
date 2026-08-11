@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"One of my most productive days was throwing away 1,000 lines of code."</i> <br />
-    &mdash; <b>Ken Thompson</b>
+    <i>"Before software can be reusable it first has to be usable."</i> <br />
+    &mdash; <b>Ralph Johnson</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
