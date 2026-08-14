@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"The function of good software is to make the complex appear simple."</i> <br />
-    &mdash; <b>Grady Booch</b>
+    <i>"Code is like humor. When you have to explain it, it’s bad."</i> <br />
+    &mdash; <b>Cory House</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
