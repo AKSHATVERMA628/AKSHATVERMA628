@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"A user interface is like a joke. If you have to explain it, it’s not that good."</i> <br />
-    &mdash; <b>Martin LeBlanc</b>
+    <i>"Controlling complexity is the essence of computer programming."</i> <br />
+    &mdash; <b>Brian Kernighan</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
