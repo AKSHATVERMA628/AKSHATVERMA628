@@ -78,7 +78,7 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Software is a great combination between artistry and engineering."</i> <br />
+    <i>"The computer was born to solve problems that did not exist before."</i> <br />
     &mdash; <b>Bill Gates</b>
   </p>
 </blockquote>
