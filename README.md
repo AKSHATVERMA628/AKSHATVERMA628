@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Clean code always looks like it was written by someone who cares."</i> <br />
-    &mdash; <b>Michael Feathers</b>
+    <i>"Talk is cheap. Show me the code."</i> <br />
+    &mdash; <b>Linus Torvalds</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
