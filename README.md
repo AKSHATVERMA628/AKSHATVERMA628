@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Talk is cheap. Show me the code."</i> <br />
-    &mdash; <b>Linus Torvalds</b>
+    <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i> <br />
+    &mdash; <b>Harold Abelson</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
