@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Before software can be reusable it first has to be usable."</i> <br />
-    &mdash; <b>Ralph Johnson</b>
+    <i>"Computers are good at following instructions, but not at reading your mind."</i> <br />
+    &mdash; <b>Donald Knuth</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
