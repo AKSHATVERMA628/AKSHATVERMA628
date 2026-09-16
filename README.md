@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Fix the cause, not the symptom."</i> <br />
-    &mdash; <b>Steve Maguire</b>
+    <i>"Optimism is an occupational hazard of programming: feedback is the treatment."</i> <br />
+    &mdash; <b>Kent Beck</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
