@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"A primary cause of complexity is that software vendors uncritically adopt hardware paradigms."</i> <br />
-    &mdash; <b>Niklaus Wirth</b>
+    <i>"Writing the first 90% of a project takes 90% of the time. The remaining 10% takes another 90% of the time."</i> <br />
+    &mdash; <b>Tom Cargill</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
