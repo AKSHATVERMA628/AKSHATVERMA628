@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"The only way to go fast, is to go well."</i> <br />
-    &mdash; <b>Robert C. Martin</b>
+    <i>"Programming isn't about what you know; it's about what you can figure out."</i> <br />
+    &mdash; <b>Chris Pine</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
