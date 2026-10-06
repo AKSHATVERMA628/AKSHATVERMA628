@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"First, solve the problem. Then, write the code."</i> <br />
-    &mdash; <b>John Johnson</b>
+    <i>"How you characterize feasibility determines your limits."</i> <br />
+    &mdash; <b>John Carmack</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
