@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"How you characterize feasibility determines your limits."</i> <br />
-    &mdash; <b>John Carmack</b>
+    <i>"Simplicity is the soul of efficiency."</i> <br />
+    &mdash; <b>Austin Freeman</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
