@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Controlling complexity is the essence of computer programming."</i> <br />
-    &mdash; <b>Brian Kernighan</b>
+    <i>"Testing leads to failure, and failure leads to understanding."</i> <br />
+    &mdash; <b>Burt Rutan</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
