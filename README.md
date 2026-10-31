@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"There are only two hard things in Computer Science: cache invalidation and naming things."</i> <br />
-    &mdash; <b>Phil Karlton</b>
+    <i>"The most disastrous thing that you can ever learn is your first programming language."</i> <br />
+    &mdash; <b>Alan Kay</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
