@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Programs must be written for people to read, and only incidentally for machines to execute."</i> <br />
-    &mdash; <b>Harold Abelson</b>
+    <i>"Truth can only be found in one place: the code."</i> <br />
+    &mdash; <b>Robert C. Martin</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
