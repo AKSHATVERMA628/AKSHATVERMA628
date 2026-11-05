@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Truth can only be found in one place: the code."</i> <br />
-    &mdash; <b>Robert C. Martin</b>
+    <i>"First, solve the problem. Then, write the code."</i> <br />
+    &mdash; <b>John Johnson</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
