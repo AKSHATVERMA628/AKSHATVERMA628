@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Simplicity is the soul of efficiency."</i> <br />
-    &mdash; <b>Austin Freeman</b>
+    <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> <br />
+    &mdash; <b>Martin Fowler</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
