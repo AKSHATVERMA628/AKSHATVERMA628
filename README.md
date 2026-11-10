@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Make it work, make it right, make it fast."</i> <br />
-    &mdash; <b>Kent Beck</b>
+    <i>"One of my most productive days was throwing away 1,000 lines of code."</i> <br />
+    &mdash; <b>Ken Thompson</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
