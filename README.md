@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Optimism is an occupational hazard of programming: feedback is the treatment."</i> <br />
-    &mdash; <b>Kent Beck</b>
+    <i>"The best error message is the one that never shows up."</i> <br />
+    &mdash; <b>Thomas Fuchs</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
