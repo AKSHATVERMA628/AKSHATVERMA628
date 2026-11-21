@@ -78,8 +78,8 @@
 <!-- START_QUOTE -->
 <blockquote>
   <p align="center">
-    <i>"Testing leads to failure, and failure leads to understanding."</i> <br />
-    &mdash; <b>Burt Rutan</b>
+    <i>"Software is a great combination between artistry and engineering."</i> <br />
+    &mdash; <b>Bill Gates</b>
   </p>
 </blockquote>
 <!-- END_QUOTE -->
